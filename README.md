@@ -1,2 +1,2 @@
 # SignalFx-Collectd-Terraform
-Deploy a GCP instance with collectd installed and reporting to your SignalFx account using Terraform
+Use terraform to deploy collectd to a GCP instance and send metrics to your SignalFx account
