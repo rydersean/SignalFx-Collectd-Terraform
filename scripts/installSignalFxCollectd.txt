@@ -1,0 +1,1 @@
+sudo curl -sSL https://dl.signalfx.com/collectd-install | bash -s YOUR_SFX_ACCESS_TOKEN -U https://ingest.us0.signalfx.com -y
